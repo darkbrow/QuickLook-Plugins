@@ -2,6 +2,8 @@
 collection of quicklook plugins
 
 - BetterZipQL.qlgenerator
+- EPUB.mdimporter
+- EPUB.qlgenerator
 - ProvisionQL.qlgenerator
 - QLAddict.qlgenerator
 - QLColorCode.qlgenerator
@@ -12,5 +14,4 @@ collection of quicklook plugins
 - QuickLookJSON.qlgenerator
 - QuickNFO.qlgenerator
 - StringsFile.qlgenerator
-- Video.qlgenerator
-- qlImageSize.qlgenerator
+- qlplayground.qlgenerator
