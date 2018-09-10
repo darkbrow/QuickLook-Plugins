@@ -15,3 +15,7 @@ collection of quicklook plugins
 - QuickNFO.qlgenerator
 - StringsFile.qlgenerator
 - qlplayground.qlgenerator
+
+other useful plugins
+- [QLVideo](https://github.com/Marginal/QLVideo)
+- [QLImageSize](https://github.com/Nyx0uf/qlImageSize)
