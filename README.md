@@ -7,8 +7,7 @@ collection of quicklook plugins
 - ProvisionQL.qlgenerator
 - QLAddict.qlgenerator
 - QLColorCode.qlgenerator
-- QLCommonMark.qlgenerator
-- QLMarkdown.qlgenerator
+- QLMarkdownGFM.qlgenerator
 - QLStephen.qlgenerator
 - QuickLookCSV.qlgenerator
 - QuickLookJSON.qlgenerator
